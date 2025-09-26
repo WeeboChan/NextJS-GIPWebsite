@@ -10,10 +10,16 @@ export default function Navbar() {
                     <Link href="/">Home</Link>
                 </li>
                 <li>
-                    <Link href="/about">About</Link>
+                    <Link href="/beschrijving">Beschrijving</Link>
                 </li>
                 <li>
-                    <Link href="/contact">Contact</Link>
+                    <Link href="/Blokschema">Blokschema</Link>
+                </li>
+                <li>
+                    <Link href="/Planning">Planning</Link>
+                </li>
+                <li>
+                    <Link href="/Prijsraming">Prijsraming</Link>
                 </li>
             </ul>
         </nav>
